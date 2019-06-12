@@ -25,4 +25,4 @@ func (stringService) Count(s string) int {
 }
 
 // ErrEmpty is returned when input string is empty
-var ErrEmpty = errors.New("Empty string")
+var ErrEmpty = errors.New("Empty string111")
